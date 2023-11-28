@@ -1,4 +1,4 @@
-###Use the epost/efetch functions written by Laura to pull maizegdb accessions from XML file
+###Use the epost/efetch to pull maizegdb accessions from XML file
 options(stringsAsFactors = FALSE)
 
 require(reutils)
